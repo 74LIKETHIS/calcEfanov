@@ -32,6 +32,16 @@ namespace calcEfanov
 
             Console.WriteLine("Результат деления: " + c);
 
+            c = Math.Cos(a);
+
+            Console.WriteLine("Косинус первого числа: " + c);
+
+            c = Math.Cos(b) ;
+
+            Console.WriteLine("Косинус второго числа: " + c);
+
+
+
             Console.ReadKey();
         }
     }
