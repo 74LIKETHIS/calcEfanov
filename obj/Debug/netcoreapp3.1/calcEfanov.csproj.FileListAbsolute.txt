@@ -1,0 +1,11 @@
+C:\Users\stud\source\repos\calcEfanov\bin\Debug\netcoreapp3.1\calcEfanov.exe
+C:\Users\stud\source\repos\calcEfanov\bin\Debug\netcoreapp3.1\calcEfanov.deps.json
+C:\Users\stud\source\repos\calcEfanov\bin\Debug\netcoreapp3.1\calcEfanov.runtimeconfig.json
+C:\Users\stud\source\repos\calcEfanov\bin\Debug\netcoreapp3.1\calcEfanov.runtimeconfig.dev.json
+C:\Users\stud\source\repos\calcEfanov\bin\Debug\netcoreapp3.1\calcEfanov.dll
+C:\Users\stud\source\repos\calcEfanov\bin\Debug\netcoreapp3.1\calcEfanov.pdb
+C:\Users\stud\source\repos\calcEfanov\obj\Debug\netcoreapp3.1\calcEfanov.csprojAssemblyReference.cache
+C:\Users\stud\source\repos\calcEfanov\obj\Debug\netcoreapp3.1\calcEfanov.AssemblyInfoInputs.cache
+C:\Users\stud\source\repos\calcEfanov\obj\Debug\netcoreapp3.1\calcEfanov.AssemblyInfo.cs
+C:\Users\stud\source\repos\calcEfanov\obj\Debug\netcoreapp3.1\calcEfanov.dll
+C:\Users\stud\source\repos\calcEfanov\obj\Debug\netcoreapp3.1\calcEfanov.pdb
