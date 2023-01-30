@@ -20,6 +20,10 @@ namespace calcEfanov
 
             Console.WriteLine("Результат сложения: " + c);
 
+            c = a - b;
+
+            Console.WriteLine("Результат вычитания: " + c);
+
             Console.ReadKey();
         }
     }
