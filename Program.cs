@@ -40,7 +40,13 @@ namespace calcEfanov
 
             Console.WriteLine("Косинус второго числа: " + c);
 
+            c = Math.Sin(a);
 
+            Console.WriteLine("Cинус первого числа: " + c);
+
+            c = Math.Sin(b);
+
+            Console.WriteLine("Cинус второго числа: " + c);
 
             Console.ReadKey();
         }
