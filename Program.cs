@@ -24,6 +24,14 @@ namespace calcEfanov
 
             Console.WriteLine("Результат вычитания: " + c);
 
+            c = a * b;
+
+            Console.WriteLine("Результат умножения: " + c);
+
+            c = a / b;
+
+            Console.WriteLine("Результат деления: " + c);
+
             Console.ReadKey();
         }
     }
